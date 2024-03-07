@@ -1,6 +1,6 @@
 # Lip-Reading-Using-Neural-Network
 
-compile link - https://drive.google.com/file/d/1isqiml_IqLKHN-CfwyM3qxwfucIy5r5a/view?usp=drive_link
+combine link - https://drive.google.com/file/d/1isqiml_IqLKHN-CfwyM3qxwfucIy5r5a/view?usp=drive_link
 
 final final main - https://drive.google.com/file/d/1I6JFDJAFdYm1uyKTCnpWBYjfLM2lvsih/view?usp=drive_link
 
