@@ -1,0 +1,63 @@
+pric3a	0.166	0.076
+bbaszp	0	0
+swab7a  0.285	0.172
+bbie7s	0.333	0.125
+pgid3s	0	0
+pbbp3a	0.333	0.074
+brwnzp	0.166	0.038
+pbai4p	0.166	0.074
+lrbr3s	0.166	0.043
+srauzn	0	0
+bwba2n	0.166	0.045	
+pgwe7a	0.166	0.033
+lbby1s	0.166	0.136
+bgag8n	0.166	0.041
+lbwe5a	0.166	0.038
+sgaczn	0	0
+pgwe6p	0.166	0.034
+bgia2p	0	0
+pwaj7a	0	0
+lrby7s	0.333	0.217
+sgbc5s	0	0
+sgiv1a	0.333	0.0833
+lwws4p	0.333	0.107
+bbbm1a	0.333	0.086
+lwws2n	0.166	0.083
+srau1s	0.166	0.142
+lgas2p	0.166	0.08
+lbwr1s	0.166	0.125
+sbwb2p	0.166	0.076
+sbig4p  0.166   0.04
+lgwm4n	0.333	0.12
+sbwb3a	0.142	0.1
+pwap8n	0.333	0.076
+prac6p	0	0
+bwbt5s	0	0
+bgit4p	0	0
+prii6p	0.333	0.28
+pwic8p	0.333	0.103
+brif4p	0.166	0.041
+lrak5s	0	0
+sbwbzn	0.285	0.148
+pwad3a	0.333	0.142
+lwie2n	0.166	0.136
+sgai7a	0	0
+sbba9a	0.333	0.083
+prwx4n	0.5	0.16
+sgwdzp	0	0
+lgwt1a	0.166	0.076
+bbir6p	0	0
+brif3s	0.166	0.130
+
+Name 	wer 	cer
+
+
+wer - 0.1706
+cer - 0.0712
+
+
+
+
+
+
+
